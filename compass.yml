@@ -1,0 +1,13 @@
+name: wagon
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/f4c812e1-3349-4dc0-9877-76341e74ccf2
+description: Wagon is a command line tool that let's you develop for Locomotive right on your local machine.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
